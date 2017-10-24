@@ -1,1 +1,5 @@
-*There are currently no examples for this tag.*
+
+```luceescript
+<!--- Redirect to Google.com --->
+<cflocation url="https://www.google.com" addtoken="no">
+```
